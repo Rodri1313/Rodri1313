@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rodri1313
-- 👀 I’m interested in data science
+- 👀 I’m interested in data Analyst
 - 🌱 I’m currently learning R,python,machine learning...
 - 📫 How to reach me: email(rf033059@gmail.com)
   
